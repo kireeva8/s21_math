@@ -1,6 +1,9 @@
 # s21_math
 
-![1665034929](https://github.com/VoLoK/s21_math/assets/112762382/a3b97458-ea95-4c2a-a347-90b6993d372d)
+<picture>
+  <img src="https://github.com/VoLoK/s21_math/assets/112762382/a3b97458-ea95-4c2a-a347-90b6993d372d">
+</picture>
+
 
 In this project you will develop your own version of the standard math.h library in the C programming language. This library implements basic mathematical operations, which are then used in various algorithms. As part of the project you will learn the basics of computational methods and solidify knowledge of structured programming.
 
