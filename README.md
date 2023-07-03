@@ -1,19 +1,21 @@
 # s21_math
 
 <picture>
-  <img src="https://github.com/VoLoK/s21_math/assets/112762382/a3b97458-ea95-4c2a-a347-90b6993d372d">
+ ![math]<img src="https://github.com/VoLoK/s21_math/assets/112762382/a3b97458-ea95-4c2a-a347-90b6993d372d">
 </picture>
 
 
-In this project you will develop your own version of the standard math.h library in the C programming language. This library implements basic mathematical operations, which are then used in various algorithms. As part of the project you will learn the basics of computational methods and solidify knowledge of structured programming.
+In this project you will develop your own version of the standard math.h library in the C programming language.<br/> 
+This library implements basic mathematical operations, which are then used in various algorithms. 
+As part of the project you will learn the basics of computational methods and solidify knowledge of structured programming.
 
-Information
+## Information
 C mathematical operations are a group of functions in the standard library of the C programming language implementing basic mathematical functions. 
 All functions use floating-point numbers in one manner or another. 
 Different C standards provide different, albeit backwards-compatible, sets of functions. 
 Any functions that operate on angles use radians as the unit of angle.
 
-Overview of some "math.h" functions
+### Overview of some "math.h" functions
 
 | No. | Function | Description |
 | --- | -------- | ----------- |
@@ -36,7 +38,6 @@ Overview of some "math.h" functions
 The functions of the math.h library must be implemented (only those directly described above):
 
 - The library must be developed in C language of C11 standard using gcc compiler.
-- The library code must be located in the src folder on the develop branch.
 - Do not use outdated and legacy language constructions and library functions. Pay attention to the legacy and obsolete marks in the official documentation on the language and the libraries used. Use the POSIX.1-2017 standard.
 - When writing code it is necessary to follow the Google style.
 - Make it as a static library (with the s21_math.h header file).
