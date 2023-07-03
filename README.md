@@ -1,7 +1,7 @@
 # s21_math
 
 <picture>
- ![math]<img src="https://github.com/VoLoK/s21_math/assets/112762382/a3b97458-ea95-4c2a-a347-90b6993d372d">
+ <img src="https://github.com/VoLoK/s21_math/assets/112762382/a3b97458-ea95-4c2a-a347-90b6993d372d">
 </picture>
 
 
