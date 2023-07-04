@@ -1,8 +1,8 @@
 # s21_math
 
-<picture>
-  <img src="https://github.com/VoLoK/s21_math/assets/112762382/a3b97458-ea95-4c2a-a347-90b6993d372d">
-</picture>
+
+![—Pngtree—hand drawn education math formula_1457807](https://github.com/kireeva8/s21_math/assets/112762382/4384e9d8-e58e-4d7b-93e8-6e9b4b0c7de5)
+
 
 В данном проекте разработана своя версия стандартной библиотеки math.h на языке программирования Си.<br/>
 Эта библиотека реализует базовые математические операции, которые затем используются в различных алгоритмах.<br/>
